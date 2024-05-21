@@ -2946,14 +2946,14 @@ ul {
 .project-one__img {
   position: relative;
   display: block;
-  background-color: var(--qutiiz-black);
+  /* background-color: var(--qutiiz-black); */
   width: 100%;
   border-radius: var(--qutiiz-bdr-radisu);
 }
 
 .project-one__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   transition: transform 500ms ease, mix-blend-mode 500ms ease;
   border-radius: var(--qutiiz-bdr-radisu);
 }
@@ -8892,7 +8892,7 @@ ul {
 
 .services-three__single-img-inner img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   transition-delay: .1s;
   transition-timing-function: ease-in-out;
   transition-duration: .7s;
